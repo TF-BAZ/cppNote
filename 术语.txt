@@ -1,0 +1,4 @@
+函数原型
+按值传递
+左值右值
+ABC(abstract base class，抽象基类)
